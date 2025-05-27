@@ -1,0 +1,14 @@
+    {
+    "firstName": "Linda",
+    "lastName": "Brante",
+    "email": "linda@example.com",
+    "gender": "Female",
+    "phone": "1234567890",
+    "dob": "14 Jun 2004",
+    "subjects": "Economics",
+    "hobbies": "Music",
+    "image": "test-image.jpg",
+    "address": "parka iela 1",
+    "state": "Latvia",
+    "city": "Valmiera"
+    }
